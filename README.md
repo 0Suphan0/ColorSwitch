@@ -1,2 +1,2 @@
 # ColorSwitch
- ColorSwitch oyununun replikası.
+Replica of ColorSwitch.
